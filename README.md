@@ -24,11 +24,13 @@
 
 [<img align="left" alt="Oleksii-Burlaka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Oleksii-Burlaka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Oleksii-Burlaka | Facebook" width="22px" src="http://simpleicon.com/wp-content/uploads/facebook-3.svg" />][facebook]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/oleksii-burlaka-b102551b6/
 [instagram]: https://instagram.com/oleksii.burlaka?igshid=ZDdkNTZiNTM=
+[facebook]: https://www.facebook.com/profile.php?id=100000754967147
+  
 
 <!--
 **Oleksii001/Oleksii001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
